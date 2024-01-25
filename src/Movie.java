@@ -9,6 +9,10 @@ public class Movie {
       Determine if the original instance variable changed or not!*/
       
       //////////////////////YOUR CODE HERE
+
+      //Example
+      changeName(protagonist);
+      printStatus();
       
     }
   
